@@ -17,8 +17,8 @@ import javax.swing.JOptionPane;
 public class TesteConexao_DB {
     // Variáveis
     private static final String url = "jdbc:mysql://localhost/treinamento_vr";
-    private static final String username = "root";
-    private static final String password = "Watson_12122003";
+    private static final String username = userName;
+    private static final String password = passWord;
     
     
     // Funções
